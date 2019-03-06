@@ -1,0 +1,22 @@
+{
+  "name": "freecell",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build": "poi --prod",
+    "serve": "poi --serve"
+  },
+  "author": "yamada1ta",
+  "license": "MIT",
+  "dependencies": {
+    "@tweenjs/tween.js": "^17.3.0",
+    "pixi.js": "^4.8.6"
+  },
+  "devDependencies": {
+    "@poi/plugin-typescript": "^12.0.1",
+    "@types/pixi.js": "^4.8.6",
+    "@types/tween.js": "^16.9.0",
+    "poi": "^12.5.5",
+    "typescript": "^3.3.3"
+  }
+}
