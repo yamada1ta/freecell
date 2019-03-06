@@ -1,10 +1,12 @@
 FreeCell
 ====
 
+![capture](README_img.jpg)
+
 TypeScript製のフリーセルです。  
 描画等に[PixiJS](https://github.com/pixijs/pixi.js)、アニメーションに[tween.js](https://github.com/tweenjs/tween.js)を使用しています。
 
-[ブラウザでプレイ]()
+[ブラウザでプレイ](https://yamada1ta.github.io/freecell)
 
 ## ビルド手順
 npmを使用するため、[Node.js](https://nodejs.org)のインストールが必要です。
