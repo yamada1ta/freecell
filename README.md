@@ -11,7 +11,10 @@ TypeScript製のフリーセルです。
 ## ビルド手順
 npmを使用するため、[Node.js](https://nodejs.org)のインストールが必要です。
 
-### 画像アセットの導入
+### 依存ライブラリの導入
+リポジトリをクローンした後、`npm install`を実行してください。
+
+### 画像ファイルの導入
 [デモ](https://yamada1ta.gitlab.io/freecell-demo)では[こちらのサイト](http://icooon-mono.com)の画像素材を使用していますが、このリポジトリにはファイルを含んでいません。  
 以下のリストに沿ってダウンロードとリネームを行い、/public/assets/images に配置してください。  
 ダウンロードの際、colorは白（rgb 255, 255, 255）、ファイル形式はPNGを選んでください。
@@ -36,9 +39,6 @@ undo.pngを左右反転
 
 * restart.png  
 http://icooon-mono.com/11972-%E3%83%AA%E3%83%AD%E3%83%BC%E3%83%89%E3%81%AE%E3%83%95%E3%83%AA%E3%83%BC%E3%82%A2%E3%82%A4%E3%82%B3%E3%83%B3/
-
-### 依存ライブラリの導入
-リポジトリをクローンした後、`npm install`を実行してください。
 
 ### ローカルで実行
 ```
