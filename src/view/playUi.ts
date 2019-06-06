@@ -29,7 +29,7 @@ export class PlayUi {
     parent.addChild(root);
   }
 
-  onTap(target: UiType, fn: Function) {
+  onTap(target: UiType, fn: (...args: any[]) => any) {
     const ui = this.toUi(target);
     ui.on('pointertap', fn);
   }

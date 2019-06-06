@@ -9,14 +9,14 @@
   "author": "yamada1ta",
   "license": "MIT",
   "dependencies": {
-    "@tweenjs/tween.js": "^17.3.0",
-    "pixi.js": "^4.8.6"
+    "@tweenjs/tween.js": "^17.4.0",
+    "pixi.js": "^4.8.8"
   },
   "devDependencies": {
-    "@poi/plugin-typescript": "^12.0.1",
-    "@types/pixi.js": "^4.8.6",
+    "@poi/plugin-typescript": "^12.2.1",
+    "@types/pixi.js": "^4.8.7",
     "@types/tween.js": "^16.9.0",
-    "poi": "^12.5.5",
-    "typescript": "^3.3.3"
+    "poi": "^12.6.10",
+    "typescript": "^3.5.1"
   }
 }
