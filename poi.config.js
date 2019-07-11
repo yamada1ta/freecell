@@ -24,7 +24,7 @@ module.exports = {
 PixiJS
 Copyright (c) 2013-2017 Mathew Groves, Chad Engler
 MIT license
-https://github.com/pixijs/pixi.js/blob/v4.8.6/LICENSE
+https://github.com/pixijs/pixi.js/blob/v4.8.8/LICENSE
 
 tween.js
 Copyright (c) 2010-2012 Tween.js authors.

@@ -14,9 +14,9 @@
   },
   "devDependencies": {
     "@poi/plugin-typescript": "^12.2.1",
-    "@types/pixi.js": "^4.8.7",
+    "@types/pixi.js": "^4.8.8",
     "@types/tween.js": "^16.9.0",
-    "poi": "^12.6.10",
-    "typescript": "^3.5.1"
+    "poi": "^12.7.0",
+    "typescript": "^3.5.3"
   }
 }
