@@ -16,7 +16,7 @@
     "@poi/plugin-typescript": "^12.2.1",
     "@types/pixi.js": "^4.8.9",
     "@types/tween.js": "^16.9.0",
-    "poi": "^12.7.3",
-    "typescript": "^3.7.3"
+    "poi": "^12.7.5",
+    "typescript": "^3.7.4"
   }
 }
