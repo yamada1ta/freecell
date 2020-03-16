@@ -10,13 +10,13 @@
   "license": "MIT",
   "dependencies": {
     "@tweenjs/tween.js": "^17.4.0",
-    "pixi.js": "^4.8.8"
+    "pixi.js": "^4.8.9"
   },
   "devDependencies": {
     "@poi/plugin-typescript": "^12.2.1",
     "@types/pixi.js": "^4.8.9",
     "@types/tween.js": "^16.9.0",
     "poi": "^12.7.5",
-    "typescript": "^3.7.4"
+    "typescript": "^3.8.3"
   }
 }
